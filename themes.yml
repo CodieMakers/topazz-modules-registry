@@ -1,1 +1,7 @@
-simple: topazz/simple-theme
+simple:
+  composer: topazz/simple-theme
+  description: Simple theme for Topazz CMS
+  license: MIT
+  author:
+    name: Lukáš Krotovič
+    email: lukas@krotovic.cz

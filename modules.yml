@@ -1,14 +1,13 @@
 admin:
   composer: topazz/admin
   description: Simple administration module for Topazz CMS
+  license: MIT
   author:
     name: Lukáš Krotovič
     email: lukas@krotovic.cz
     url: https://lukas.krotovic.cz
-  license: MIT
-  repository:
-    type: git
-    url: https://github.com/CodieMakers/topazz-admin
+  support: lukas@krotovic.cz
+  issues: https://github.com/CodieMakers/topazz-admin/issues
 
 cache:
   composer: topazz/cache
@@ -18,7 +17,5 @@ cache:
     email: lukas@krotovic.cz
     url: https://lukas.krotovic.cz
   license: MIT
-  repository:
-    type: git
-    url: https://github.com/CodieMakers/topazz-cache
+  issues: https://github.com/CodieMakers/topazz-cache/issues
     
