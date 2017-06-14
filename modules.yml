@@ -1,1 +1,24 @@
-admin: topazz/admin
+admin:
+  composer: topazz/admin
+  description: Simple administration module for Topazz CMS
+  author:
+    name: Lukáš Krotovič
+    email: lukas@krotovic.cz
+    url: https://lukas.krotovic.cz
+  license: MIT
+  repository:
+    type: git
+    url: https://github.com/CodieMakers/topazz-admin
+
+cache:
+  composer: topazz/cache
+  description: Cache plugin for providing static files with E-Tag and much more
+  author:
+    name: Lukáš Krotovič
+    email: lukas@krotovic.cz
+    url: https://lukas.krotovic.cz
+  license: MIT
+  repository:
+    type: git
+    url: https://github.com/CodieMakers/topazz-cache
+    
