@@ -22,8 +22,7 @@ author.email | `john.doe@example.com` | Email of the author
 author.url | `https://johndoe.example.com` | URL of the author's homepage
 support | `https://support.myorg.com/mypackage/` | Support page or email
 issues | `https://github.com/mynick/mypackage/issues` | Issue tracker's homepage
-picture | `http://raw.githubusercontent.com/mynick/mypackage/master/picture.png` | Representative picture that can be provided in administration
+picture | `http://raw.github.../picture.png` | Representative picture that can be provided in administration
 
 #### :warning: Required `composer`
-
 If the `composer` option is not specified, the module cannot be installed. All other options are optional but recommended.
