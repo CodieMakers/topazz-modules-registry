@@ -9,13 +9,7 @@ admin:
   support: lukas@krotovic.cz
   issues: https://github.com/CodieMakers/topazz-admin/issues
 
-cache:
-  composer: topazz/cache
-  description: Cache plugin for providing static files with E-Tag and much more
-  author:
-    name: Lukáš Krotovič
-    email: lukas@krotovic.cz
-    url: https://lukas.krotovic.cz
+fa-markdown:
+  composer: topazz/fa-markdown
+  description: Font Awesome Markdown parser for Topazz CMS
   license: MIT
-  issues: https://github.com/CodieMakers/topazz-cache/issues
-    
